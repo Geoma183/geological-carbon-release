@@ -6,6 +6,8 @@ Data, code, and documentation for reconstructing anthropogenic release from geol
 
 **Repository under preparation. This is not yet a verified reproduction package or a formal data release.** The current version contains documentation and templates. Manuscript-linked datasets and executable code will be uploaded only after version, provenance, licensing, and numerical consistency checks. No Zenodo DOI has yet been assigned. No repository-wide reuse license has yet been selected.
 
+**Zenodo deposit preparation:** [zenodo/README.md](zenodo/README.md) | [Dataset metadata draft](zenodo/dataset-record-draft.md) | [Candidate data manifest](zenodo/data-release-manifest.csv) | [Release gates](zenodo/release-gates.md).
+
 ## Scientific scope
 
 - Geological carbon sources: coal, oil, natural gas, limestone, dolomite, and their industrial uses.
@@ -35,6 +37,7 @@ Use traceable country/region–year tables. Preserve original inputs and label o
 | `docs/` | Methods, sources, data dictionary, and release rules |
 | `validation/` | Consistency, quality, and reproducibility checks |
 | `results/` | Verified figure and table source data |
+| `zenodo/` | Zenodo candidate inventory, metadata draft and release gates |
 
 See [accounting boundaries](docs/accounting-boundaries.md), [reproducibility instructions](docs/reproducibility.md), and the [public release checklist](docs/release-checklist.md).
 

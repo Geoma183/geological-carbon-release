@@ -1,0 +1,7 @@
+"source_id","source_group","provider","snapshot_version","source_url_or_doi","redistribution_decision","review_note"
+"SRC-GCB","Global Carbon Budget / direct fossil and industrial process CO2","GCB / other contributing national datasets","unverified","unverified","not_assessed","Direct CO2 anchor provenance; source-year status and version required"
+"SRC-WDI","World Development Indicators: urban population and industry share","World Bank","unverified","unverified","not_assessed","Check WDI indicator terms and provenance to underlying UN sources"
+"SRC-UNSD","National Accounts Main Aggregates Database","UN Statistics Division","unverified","unverified","not_assessed","Used as named fallback for industrial share; derived ratios require source identity"
+"SRC-IEA","Energy activity / methane process evidence","International Energy Agency","unverified","unverified","not_assessed","Provider-specific licensing may restrict raw redistribution"
+"SRC-EDGAR","Greenhouse-gas inventory and associated process series","EDGAR","unverified","unverified","not_assessed","Verify terms and source/sector compatibility"
+"SRC-MODEL","Project-original derived result and uncertainty tables","Research authors to be confirmed","unverified","unverified","not_assessed","Derived outputs require upstream dependency and license review"
